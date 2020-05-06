@@ -5,7 +5,7 @@ usercolumn=int(input('which column in this row do you want displayed'))
 print(my2dlist[userrow][usercolumn])
 userchoice=input('do you want to chage that value').upper
 
-# Github is working with my new laptop
+# Github is working with my new laptop - another test
 if userchoice=="Yes":
     replacement=int(input('what do you want to replace it with'))
     my2dlist[userrow][usercolumn]=replacement
