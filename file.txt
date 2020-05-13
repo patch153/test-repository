@@ -1,1 +1,10 @@
 "this is a test for the terminal" 
+
+
+To commit something to githbu go to your git repository with the terminal. 
+
+Make whatever changes you need to make to the repository.
+
+git add .
+git commit -m "commit message"
+git push
